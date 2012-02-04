@@ -1,15 +1,41 @@
-Fresh => Avoid staleness or lack of certainty about freshness.
+Goulash -- fresh, healthy, hearty P6 meals made from existing doc and software.
+  Ideas?
 
-Healthy => Doesn't have to look good. Must be correct.
+Fresh -- should not bitrot.
+  Display/manage last update, last WFM, last unaddressed -ve comment.
 
-Hearty => Satisfying.
+Healthy -- should work.
+  Markup.
+    Markup/rendering errors generate -ve comment.
+    Rendering doesn't have to look good.
+  Instructions.
+    Display "see comments" if comment added to page with Instructions tag.
+  Code.
+    Continuous testing.
 
-P6 => Not compiler specific.
+Hearty -- satisfies?
+  Set expectations.
+  Track WFM/usage ratio.
 
-doc => gollum formats, Pod, ?
+P6
+  Minimize and clearly mark any compiler specific pieces.
 
-Meals => Task oriented.
+doc
+  Pod
+  gollum formats?
+  ?
 
-Main ingredients: existing doc. => Avoid creating original doc.
+Meals -- task/session oriented.
+  Snacks: get basics done fast.
+  Appetizers: sex appeal.
+  Entrees: get it done right.
+  Desserts: sex.
 
+Main ingredients: existing doc.
+  Eternal spike: smallest amount of new doc that could possibly work.
 
+Feedback controls
+  On every page.
+  WFM/Comment buttons.
+    Comment form has +/- and section (Instructions, Code, Other).
+  Process/people to manage feedback.
