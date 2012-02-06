@@ -20,19 +20,26 @@ Hearty -- satisfies?
 P6
   Minimize and clearly mark any compiler specific pieces.
 
-doc
-  Pod
-  gollum formats?
-  ?
-
 Meals -- task/session oriented.
   Snacks: get basics done fast.
   Appetizers: sex appeal.
   Entrees: get it done right.
   Desserts: sex.
 
-Main ingredients: existing doc.
-  Eternal spike: smallest amount of new doc that could possibly work.
+Made from existing -- "spike".
+  Smallest amount of new doc / software that could possibly work.
+
+Doc
+  Markups.
+    Pod
+    gollum formats?
+    ?
+  Synopses.
+  Tablet index.
+  
+
+Software
+  Should eventually be P6 wiki engine.
 
 Feedback controls
   On every page.
